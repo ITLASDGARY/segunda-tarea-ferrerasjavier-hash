@@ -15,7 +15,7 @@ public static string CheckAccess(int age)
     }
     else
     {
-        return "Señor, el bingo es al lado";
+        return "Señor, el bingo es al lado";  
     }
 }
 }
